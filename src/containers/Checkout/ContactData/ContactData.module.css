@@ -1,0 +1,13 @@
+.ContactData {
+  margin: 20px auto;
+  width: 80%;
+  text-align: center;
+  box-shadow: 2px 2px 5px #c1c1c1;
+  box-sizing: border-box;
+}
+
+@media screen and (mid-width: 600px) {
+  .ContactData {
+    width: 500px;
+  }
+}
